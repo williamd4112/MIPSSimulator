@@ -1,0 +1,698 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sy",
+				"sys"
+			],
+			[
+				"fie",
+				"fields"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"lab",
+				"labels"
+			],
+			[
+				"di",
+				"digit_str"
+			],
+			[
+				"res",
+				"resovle_digit_form"
+			],
+			[
+				"ba",
+				"base_pc_str"
+			],
+			[
+				"bas",
+				"base_pc"
+			],
+			[
+				"data",
+				"data_len"
+			],
+			[
+				"end",
+				"endswith"
+			],
+			[
+				"wir",
+				"writeWord"
+			],
+			[
+				"laz",
+				"lazyresolved_op"
+			],
+			[
+				"wri",
+				"writeWord"
+			],
+			[
+				"off",
+				"offsets"
+			],
+			[
+				"fiel",
+				"field_mask"
+			],
+			[
+				"file",
+				"field_mask"
+			],
+			[
+				"fied",
+				"fields"
+			],
+			[
+				"reg",
+				"register_map"
+			],
+			[
+				"re",
+				"record"
+			],
+			[
+				"jump",
+				"jump_label"
+			],
+			[
+				"pc",
+				"pc_offset"
+			],
+			[
+				"resl",
+				"resolve_jal"
+			],
+			[
+				"labe",
+				"label_pc"
+			],
+			[
+				"ju",
+				"jump_label"
+			],
+			[
+				"comm",
+				"command_pc"
+			],
+			[
+				"un",
+				"unresolved_word"
+			],
+			[
+				"op",
+				"opcode_map"
+			],
+			[
+				"iim",
+				"iimage_print"
+			],
+			[
+				"label",
+				"labels"
+			],
+			[
+				"reg_st",
+				"reg_str_end"
+			],
+			[
+				"reg_",
+				"reg_str_end"
+			],
+			[
+				"Re",
+				"reg_str"
+			],
+			[
+				"st",
+				"strcmp"
+			],
+			[
+				"fp",
+				"fprintf	fprintf …"
+			],
+			[
+				"string",
+				"string"
+			],
+			[
+				"pa",
+				"parse_fields"
+			],
+			[
+				"if",
+				"ifstream"
+			],
+			[
+				"op_",
+				"op_str"
+			],
+			[
+				"arg",
+				"argv"
+			],
+			[
+				"load",
+				"load_dictionary"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"is",
+				"isNumberOverflow"
+			],
+			[
+				"errordump",
+				"errordumpPath"
+			],
+			[
+				"WR",
+				"WRITE_REGZERO"
+			],
+			[
+				"ADD",
+				"ADDRESS_OVERFLOW"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"W",
+				"WRITE_REGZERO"
+			],
+			[
+				"err",
+				"errorid"
+			],
+			[
+				"da",
+				"DATA_MISALIGN"
+			],
+			[
+				"N",
+				"NUMBER_OVERFLOW_MSG"
+			],
+			[
+				"wr",
+				"WRITE_REGZERO_MSG"
+			],
+			[
+				"dump",
+				"dumpPath"
+			],
+			[
+				"en",
+				"enable"
+			],
+			[
+				"word",
+				"word_count"
+			],
+			[
+				"b",
+				"base_addr"
+			],
+			[
+				"main",
+				"mainProc"
+			],
+			[
+				"sock",
+				"sockfd"
+			],
+			[
+				"socka",
+				"sockaddr"
+			],
+			[
+				"Sock",
+				"socket"
+			],
+			[
+				"CL",
+				"CLR_BIN"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "core.cpp",
+			"settings":
+			{
+				"buffer_size": 11633,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "memory.cpp",
+			"settings":
+			{
+				"buffer_size": 2280,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "register.cpp",
+			"settings":
+			{
+				"buffer_size": 403,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"command_palette":
+	{
+		"height": 397.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"vmen",
+				"View: Toggle Menu"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pakc",
+				"Package Control: Remove Package"
+			],
+			[
+				"pak",
+				"Package Control: Remove Package"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"pakg",
+				"Package Control: Install Package"
+			],
+			[
+				"VMEN",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 455.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"print()",
+			"eee"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/williamd/vim/archi/mips/main.cpp",
+		"/home/williamd/vim/archi/mips/core.h",
+		"/home/williamd/vim/archi/mips/state.cpp",
+		"/home/williamd/workspace/Mips2bin/data/error3.dat",
+		"/home/williamd/workspace/Mips2bin/source/error3.s",
+		"/home/williamd/vim/archi/mips/Test/error3/error3.dat",
+		"/home/williamd/workspace/Mips2bin/Parser.py",
+		"/home/williamd/vim/archi/mips/Test/error3/error3.s",
+		"/home/williamd/workspace/Mips2bin/test/test.py",
+		"/home/williamd/workspace/Mips2bin/output/func.S_iimage.bin",
+		"/home/williamd/vim/archi/mips/Test/func/iimage.bin",
+		"/home/williamd/workspace/Mips2bin/output/error_2.S_iimage.bin",
+		"/home/williamd/vim/archi/mips/Test/error2/iimage.bin",
+		"/home/williamd/workspace/Mips2bin/output/recur.S_iimage.bin",
+		"/home/williamd/vim/archi/mips/Test/recur/iimage.bin",
+		"/home/williamd/workspace/Mips2bin/output/fib_dp.S_iimage.bin",
+		"/home/williamd/vim/archi/mips/Test/fib_dp/iimage.bin",
+		"/home/williamd/workspace/Mips2bin/output/branch.S_iimage.bin",
+		"/home/williamd/vim/archi/mips/Test/branch/iimage.bin",
+		"/home/williamd/workspace/Mips2bin/test/untitled",
+		"/home/williamd/workspace/Mips2hex/Parser.py",
+		"/home/williamd/workspace/Mips2hex/data/func.dat",
+		"/home/williamd/workspace/Mips2hex/output/func.dat_dmage.bin",
+		"/home/williamd/vim/archi/mips/Test/func/dimage.bin",
+		"/home/williamd/workspace/Mips2hex/iimage.bin",
+		"/home/williamd/vim/archi/a.c",
+		"/home/williamd/workspace/Mips2hex/register.txt",
+		"/home/williamd/vim/archi/mips/Test/recur/dimage.bin",
+		"/home/williamd/workspace/Mips2hex/regsiter.txt",
+		"/home/williamd/vim/archi/hextemplate.py",
+		"/home/williamd/vim/archi/mips/hex2bin.cpp",
+		"/home/williamd/vim/archi/mips/Test/myfunc/iimage.bin",
+		"/home/williamd/vim/archi/mips/hex2bin",
+		"/home/williamd/vim/archi/mips/converter.cpp",
+		"/home/williamd/vim/archi/mips/dictionary.txt",
+		"/home/williamd/vim/archi/mips/memory.cpp",
+		"/home/williamd/vim/archi/mips/register.cpp",
+		"/home/williamd/vim/archi/mips/memory.h",
+		"/home/williamd/vim/archi/mips/Makefile",
+		"/home/williamd/vim/archi/mips/core.cpp",
+		"/home/williamd/vim/archi/mips/register.h",
+		"/home/williamd/vim/archi/mips/state.h",
+		"/home/williamd/vim/archi/mips/util.h",
+		"/home/williamd/vim/archi/mips/util.cpp",
+		"/home/williamd/vim/archi/mips/Test/branch/dimage.bin",
+		"/home/williamd/vim/archi/mips/Test/func/snapshot.rpt",
+		"/home/williamd/vim/archi/mips/Test/func/error_dump.rpt",
+		"/home/williamd/vim/assembly/lh.s",
+		"/home/williamd/vim/assembly/gcd.asm",
+		"/home/williamd/vim/assembly/fact.asm",
+		"/home/williamd/vim/assembly/fact2.asm",
+		"/home/williamd/下載/gcd_template (1).asm",
+		"/home/williamd/vim/archi/mips/mips.sublime-project",
+		"/home/williamd/vim/assembly/lab1.asm",
+		"/home/williamd/vim/assembly/gcd.cpp",
+		"/home/williamd/vim/assembly/gcd.c",
+		"/home/williamd/文件/cbWorkspace/InversionPair/main.cpp",
+		"/home/williamd/workspace/SocketLab/lab4_node.py",
+		"/home/williamd/vim/Network Programming/echo_2nd/Makefile",
+		"/home/williamd/vim/Network Programming/libnetio/src/netio.c",
+		"/home/williamd/vim/Network Programming/libnetio/include/netio.h",
+		"/home/williamd/vim/Network Programming/echo_2nd/src/server.c",
+		"/home/williamd/vim/Network Programming/echo_2nd/src/client.c",
+		"/home/williamd/vim/Network Programming/Echo/client.c",
+		"/home/williamd/vim/Network Programming/Echo/network.c",
+		"/home/williamd/vim/Network Programming/Echo/server.c",
+		"/home/williamd/vim/Network Programming/libnetio/include/netio",
+		"/home/williamd/vim/Network Programming/echo_2nd/src/client",
+		"/home/williamd/vim/Network Programming/echo_2nd/echo2nd.sublime-project",
+		"/home/williamd/vim/Network Programming/echo_2nd/src/Makefile",
+		"/home/williamd/vim/Network Programming/libnetio/Makefile",
+		"/home/williamd/vim/Network Programming/libnetio/src/netio.h",
+		"/home/williamd/vim/Network Programming/libnetio/libnetio.sublime-project",
+		"/home/williamd/vim/Network Programming/libnetio/network.h",
+		"/home/williamd/vim/Network Programming/libnetio/network.c",
+		"/home/williamd/文件/cbWorkspace/uva_812/main2.cpp",
+		"/home/williamd/.config/sublime-text-3/Packages/C++11/messages/install.txt",
+		"/home/williamd/vim/Network Programming/echo_2nd/client.c",
+		"/home/williamd/.config/sublime-text-3/Packages/SublimeGDB/Default.sublime-keymap",
+		"/home/williamd/.config/sublime-text-3/Packages/SublimeGDB/SublimeGDB.sublime-settings",
+		"/home/williamd/.config/sublime-text-3/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/home/williamd/.config/sublime-text-3/Packages/CTags/Default.sublime-keymap",
+		"/home/williamd/.config/sublime-text-3/Packages/User/CTags.sublime-settings",
+		"/home/williamd/.config/sublime-text-3/Packages/CTags/CTags.sublime-settings",
+		"/home/williamd/vim/NetWork Programming/Echo/network.c",
+		"/home/williamd/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/williamd/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/williamd/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/williamd/.config/sublime-text-3/Packages/User/g++.sublime-build",
+		"/home/williamd/.config/sublime-text-3/Packages/User/C++.sublime-settings"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"log",
+			"cur_pc",
+			"  ",
+			"%h",
+			"%d",
+			"printf",
+			"dumpErro",
+			"errorid",
+			"lh",
+			"lw",
+			"sw",
+			"lh",
+			"reg",
+			"lhu",
+			"beq",
+			"op_beq",
+			"jr",
+			"mem",
+			"readw",
+			"mem",
+			"writew",
+			"mem",
+			"lw",
+			"jr",
+			"%d",
+			"SRC",
+			"scanf",
+			"elsem"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"pc_offset",
+			" ",
+			"%hd",
+			"%h",
+			"ERROR",
+			"$%d"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "core.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11633,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++11/C++11.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "memory.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2213,
+								2213
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++11/C++11.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 969.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "register.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								79
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 171.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CppYCM.2":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 146.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "mips.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"src/client.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/vim/Network Programming/libnetio/libnetio.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

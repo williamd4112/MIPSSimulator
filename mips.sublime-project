@@ -1,0 +1,10 @@
+{
+	"folders":
+	[
+	],
+	"settings":
+	{
+		"sublimegdb_commandline": "gdb -nx -readnow -fullname --interpreter=mi -args ./dbg",
+		"sublimegdb_workingdir": "${folder:${project_path:bin/dbg}}"
+	}
+}
